@@ -1,5 +1,7 @@
 {
   "name": "geolocation-test",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
